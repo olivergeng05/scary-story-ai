@@ -10,7 +10,7 @@ reddit = praw.Reddit(
 # Settings
 subreddit_name = 'TrueOffMyChest'
 num_posts = 10
-
+#yummy
 # Grab posts
 subreddit = reddit.subreddit(subreddit_name)
 posts = subreddit.top(limit=num_posts)
