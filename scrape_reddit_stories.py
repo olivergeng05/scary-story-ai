@@ -9,7 +9,7 @@ reddit = praw.Reddit(
 
 # Settings
 subreddit_name = 'TrueOffMyChest'
-num_posts = 10
+num_posts = 50
 #yummy
 # Grab posts
 subreddit = reddit.subreddit(subreddit_name)
